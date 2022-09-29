@@ -1,0 +1,43 @@
+body {
+    margin: 8px;
+    padding: 0px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    color: black;
+    line-height: 14px;
+    border: 7px double #000;
+}
+
+section {
+    text-align: right;
+    width: 700px;
+    height: 250px;
+}
+
+a {
+    text-decoration: underline;
+    color: #519FC3;
+}
+
+/* Estilos de Identificación */
+#marco1 {
+    background: url("../imagenes/caso4.jpg") bottom left no-repeat;
+    margin: 12px 10px 15px 19px;
+    width: 300px;
+}
+
+#marco2 {
+    margin: 14px 0px 0px 90px;
+    padding-top: 55px;
+}
+
+/* Estilos de Clase */
+.linea {
+    width: 200px;
+    height: 1px;
+}
+
+.link {
+    float: right;
+}
